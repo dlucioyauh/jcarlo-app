@@ -1,9 +1,8 @@
 import React from 'react';
 import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
-import LoginScreen from '../mobile/screens/LoginScreen'; // Corrija o caminho, sem espaços extras
-import RegisterScreen from './screens/RegisterScreen'; // Corrija o caminho, sem espaços extras
-import { View, Text } from 'react-native';
+import LoginScreen from './screens/LoginScreen';
+import RegisterScreen from './screens/RegisterScreen';
 
 const Stack = createNativeStackNavigator();
 
