@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "jcarlo-app",
+    "slug": "jcarlo-app",
+    "version": "1.0.0",
+    "sdkVersion": "52.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  }
+}
